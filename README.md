@@ -15,4 +15,4 @@ Skills: Computer and Information Sconce's.
 
 ![GitHub metrics](https://metrics.lecoq.io/KETROSITHOLE )  
 
-![Profile views](https://gpvc.arturio.dev/KETROSITHOLE )  
+
