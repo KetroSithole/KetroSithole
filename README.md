@@ -3,7 +3,7 @@
 
 Research assistant University of Pretoria | 6 x Hackathon-Winner | Top 15 Geek in South Africa 2023 Geekulcha | 
 
-Skills: Computer and Information Sconce's.
+Skills: Computer and Information Sciences.
 
 
 
