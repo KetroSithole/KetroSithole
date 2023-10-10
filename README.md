@@ -1,7 +1,7 @@
 ### Hi there 👋, KETRO SITHOLE 
 #### Data & Business Intelligence Analyst 
 
-Research assistant University of Pretoria | 6 x Hackathon-Winner | Top 15 Geek in South Africa 2023 Geekulcha | Data & Business Intelligence Consultant |
+Research assistant University of Pretoria | 6 x Hackathon-Winner | Top 15 Geek in South Africa 2023 Geekulcha | 
 
 Skills: Computer and Information Sconce's.
 
