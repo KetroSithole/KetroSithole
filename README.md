@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketro Sithole</h1>
 <h3 align="center">A passionate Business Intelligence Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketrosithole&label=Profile%20views&color=0e75b6&style=flat" alt="ketrosithole" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQEZxNAeK9ZahA/profile-displayphoto-shrink_800_800/0/1703721387427?e=1709769600&v=beta&t=q0NuDzRRHy0J01-AQUyXdY3NxZKegNP-4qF6O-l8dp8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketrosithole" alt="ketrosithole" /></a> </p>
 
