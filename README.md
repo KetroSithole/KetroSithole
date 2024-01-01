@@ -1,6 +1,5 @@
 # Ketro Sithole
-
-🌐 Assistant Researcher DFSI @ Tuks | Business Intelligence Analyst | 6 Times Hackathon-Winner | Top 15 SA Young Geeks 2023 | NLP | Data Sciences | Information Technology | Aspiring Scrum Master 🌐
+Assistant Researcher DFSI @ Tuks | Business Intelligence Analyst | 6 Times Hackathon-Winner | Top 15 SA Young Geeks 2023 | NLP | Data Sciences | Information Technology | Aspiring Scrum Master 
 
 ## 🖥 Skills
 - Machine Learning
