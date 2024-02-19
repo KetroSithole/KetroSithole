@@ -1,5 +1,5 @@
 # Ketro Sithole
-Assistant Researcher DFSI @ Tuks | Business Engineer  | 6 Times Hackathon-Winner |Data Sciences | Information Technology | 
+Assistant Researcher DFSI @ Tuks | Data  Engineer  | 6 Times Hackathon-Winner |Data Sciences | Information Technology | 
 
 ## 🖥 Skills
 - Machine Learning
