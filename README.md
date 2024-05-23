@@ -1,4 +1,4 @@
-# Ketro Sithole
+# KETRO SITHOLE 
 Assistant Researcher DFSI @ Tuks | Data  Engineer  | 6 Times Hackathon-Winner |Data Sciences | Information Technology | 
 
 ## 🖥 Skills
