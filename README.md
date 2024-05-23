@@ -1,5 +1,5 @@
 # KETRO SITHOLE 
-Assistant Researcher DFSI @ Tuks | Data  Engineer  | 6 Times Hackathon-Winner |Data Sciences | Information Technology | 
+↳Data Scientist 🗣️| ↳Data Engineer 🖥️| ↳6✘ Hackathon Winner ✅ | ↳Junior Consultant at Expeditus🚀|↳Top 15 SA Young Geek 2023 ✅↳
 
 ## 🖥 Skills
 - Machine Learning
