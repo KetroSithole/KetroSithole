@@ -1,5 +1,5 @@
 # KETRO SITHOLE 
-↳Data Scientist 🗣️| ↳Data Engineer 🖥️| ↳6✘ Hackathon Winner ✅ | ↳Junior Consultant at Expeditus🚀|↳Top 15 SA Young Geek 2023 ✅↳
+🗣️ Data Scientist | 🖥️ Data Engineer | 6x Hackathon Winner ✅ | Junior Consultant at Expeditus 🚀 | Top 15 SA Young Geek 2023 ✅
 
 ## 🖥 Skills
 - Machine Learning
