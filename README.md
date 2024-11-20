@@ -1,26 +1,55 @@
-# Ketro Sithole 
-🗣️ Full Stack Developer & DevOps Specialist | 🖥️ Data Engineer | 7x Hackathon Winner ✅ | Junior Consultant at Expeditus 🚀 | Top 15 SA Young Geek 2023 ✅
+# Ketro Sithole  
+🗣️ Full-Stack Software & Data Engineer | 🚀 DevOps Specialist | 7x Hackathon Winner ✅ | Expeditus Consultant | Top 15 SA Young Geek 2023 ✅  
 
-I’m Ketro Sithole, a Full Stack Developer and DevOps Specialist 👨‍💻 with a strong foundation in Mathematical Statistics and Computer Science. I graduated with top marks in Statistics 📊 from the University of Pretoria, where I developed an AI-driven data management system for my final-year project, securing First Place in my degree. Recognized as one of South Africa's Top 15 Young Geeks in 2023 and a seven-time hackathon winner, I excel in optimizing data pipelines, automating workflows, and building scalable backend systems.
+I am a Full-Stack Software and Data Engineer at Expeditus, specializing in designing and implementing end-to-end data solutions to optimize business processes. My academic foundation in Mathematics, Computational and Applied Mathematics, Data Science, and Knowledge Management equips me with a holistic and analytical approach to solving complex problems.  
 
-With expertise in API integration, CI/CD, and cloud-based solutions ☁️, I deliver high-quality, efficient systems that drive business growth and innovation. My skills span advanced statistical analysis, big data management, algorithm design, and AI/ML, supported by a comprehensive background in computer science and mathematics.
-
----
-
-## 🖥 Skills
-- ✅ API Integration and Development
-- ✅ Continuous Integration and Continuous Deployment (CI/CD)
-- ✅ Cloud-based Solutions and Infrastructure
-- ✅ Data Pipeline Optimization
-- ✅ Workflow Automation
-- ✅ Big Data Management
-- ✅ Advanced Statistical Analysis
-- ✅ Artificial Intelligence and Machine Learning (AI/ML)
-- ✅ Algorithm Design and Data Structures
+With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VBA, Angular, Vue, and more, I excel in building robust data-driven applications and delivering actionable analytics.  
 
 ---
 
-## ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=353535) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=social&logo=Docker&color=353535) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=353535) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=social&logo=TensorFlow&color=353535) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=social&logo=PyTorch&color=353535) ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=social&logo=Scikit-Learn&color=353535) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=social&logo=MongoDB&color=353535) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=353535) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logo=PostgreSQL&color=353535) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=social&logo=Pandas&color=353535) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=social&logo=Numpy&color=353535) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=social&logo=Matplotlib&color=353535) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=social&logo=Flask&color=353535) ![Django](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=353535) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=353535)
+## **Key Project Highlights**  
+- **Revenue Predictive Models**:  
+  - Conducted exploratory data analysis (EDA) on turnover data  
+  - Treated missing values and outliers for clean datasets  
+  - Built forecasting models using ARIMA and exponential smoothing  
+  - Delivered GIS-based insights using geospatial analysis (buffers, clipping, etc.)  
+  - Conducted stepwise regression and correlation analysis for variable selection  
+  - Developed a dynamic ARIMAX model for predictive analytics  
+  - Applied cross-validation and created robust performance metrics for model accuracy  
+  - Leveraged chaotic time series analysis to refine forecasting insights  
+
+- **Credit Risk Modeling**:  
+  - Developed AI-driven models for credit risk evaluation  
+  - Optimized risk management processes through advanced analytics  
 
 ---
+
+## **Professional Experience**  
+- **Teaching and Research Assistant** – 4 years at the University of Pretoria  
+- **IT Support Specialist** – 2 years at the University of Pretoria  
+
+---
+
+## **Achievements**  
+- **7x Hackathon Winner**  
+- **First Place in Final Year IT Project** (AI-driven data management system)  
+- **Top 15 Young Geeks in South Africa (2023)**  
+- Proven expertise in DevOps, machine learning, AI, and backend engineering  
+
+---
+
+## **Technical Skills**  
+- Full-stack software engineering  
+- Data pipeline design and optimization  
+- Advanced analytics and predictive modeling  
+- DevOps (CI/CD pipelines, automation)  
+- AI/ML development  
+
+---
+
+## **Tech Stack**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=353535) ![SQL](https://img.shields.io/badge/-SQL-05122A?style=social&logo=MySQL&color=353535) ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=social&logo=PowerBI&color=353535) ![Angular](https://img.shields.io/badge/-Angular-05122A?style=social&logo=Angular&color=353535) ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=social&logo=Vue.js&color=353535) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=social&logo=Docker&color=353535) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=353535) ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=social&logo=Pandas&color=353535) ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=social&logo=NumPy&color=353535)  
+
+---
+
+Throughout my career, I’ve been passionate about solving real-world challenges through innovation and technical excellence, always delivering impactful and scalable solutions.
