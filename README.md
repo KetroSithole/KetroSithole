@@ -1,18 +1,31 @@
-**Ketro Sithole**  
-🖥️ **Software Engineer & Data Architect** | 🚀 **DevOps Specialist** | 🏆 **7x Hackathon Winner** | 🌟 **Top 15 SA Young Geek 2023** | 🔍 **Expeditus Consultant**  
+# Ketro Sithole  
+🗣️ Full-Stack Software & Data Engineer | 🚀 DevOps Specialist | 7x Hackathon Winner ✅ | Expeditus Consultant | Top 15 SA Young Geek 2023 ✅  
 
-I specialize in building **scalable data analytics projects**, **migrations**, and **business intelligence applications**. As an **Associate Data Consultant** with a foundation in **Mathematical Statistics**, **Computer Science**, and **Information Science**, I bring over two years of experience in **advanced analytics** and **data engineering** to the IT space.  
+I am a Full-Stack Software and Data Engineer at Expeditus, specializing in designing and implementing end-to-end data solutions to optimize business processes. My academic foundation in Mathematics, Computational and Applied Mathematics, Data Science, and Knowledge Management equips me with a holistic and analytical approach to solving complex problems.  
 
-A **problem solver** by nature, I thrive in dynamic environments, designing **robust systems** and developing models that uncover **actionable insights**. My primary passion lies in **data**, and I excel at delivering **impactful, data-driven solutions** to real-world challenges.  
+With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VBA, Angular, Vue, and more, I excel in building robust data-driven applications and delivering actionable analytics.  
 
-🔑 **Key Projects**:  
-📊 **Revenue Models**: Built **forecasting models** (ARIMA, exponential smoothing), **geospatial analysis**, and dynamic **ARIMAX** for predictive insights.  
-💳 **Credit Risk Modeling**: Developed **AI-driven models** for **risk evaluation** and optimized processes.  
+---
 
-💼 **Experience**:  
-🎓 **Teaching/Research Assistant** – 4 years  
-💻 **IT Support Specialist** – 2 years  
+## **Key Project Highlights**  
+- **Revenue Predictive Models**:  
+  - Conducted exploratory data analysis (EDA) on turnover data  
+  - Treated missing values and outliers for clean datasets  
+  - Built forecasting models using ARIMA and exponential smoothing  
+  - Delivered GIS-based insights using geospatial analysis (buffers, clipping, etc.)  
+  - Conducted stepwise regression and correlation analysis for variable selection  
+  - Developed a dynamic ARIMAX model for predictive analytics  
+  - Applied cross-validation and created robust performance metrics for model accuracy  
+  - Leveraged chaotic time series analysis to refine forecasting insights  
 
-I’m proud to have collaborated with top data professionals like **Prof. Vukosi Marivate**, **Athandiwe Saba**, **Dr. Shozi**, and **Dr. Nicolene**, tackling projects at the intersection of **data science**, **analytics**, and **IT solutions**.  
+- **Credit Risk Modeling**:  
+  - Developed AI-driven models for credit risk evaluation  
+  - Optimized risk management processes through advanced analytics  
 
-Equally passionate about **mentorship** and **knowledge-sharing**, I've lectured on **advanced analytics**, judged **datathon solutions**, and guided aspiring professionals. My mission is to empower businesses and individuals to make **data-driven decisions** that create **transformative impact**.
+---
+
+## **Professional Experience**  
+- **Teaching and Research Assistant** – 4 years at the University of Pretoria  
+- **IT Support Specialist** – 2 years at the University of Pretoria  
+
+---
