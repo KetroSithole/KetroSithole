@@ -1,5 +1,5 @@
 # Ketro Sithole  
-🗣️ **Full-Stack Software & Data Engineer** | 🚀 **DevOps Specialist** | 7x **Hackathon Winner** ✅ | **Expeditus Consultant** | Top 15 **SA Young Geek 2023** ✅  
+**Full-Stack Software & Data Engineer** | 🚀 **DevOps Specialist** | 7x **Hackathon Winner** ✅ | **Expeditus Consultant** | Top 15 **SA Young Geek 2023** ✅  
 
 I am a **Full-Stack Software and Data Engineer** at **Expeditus**, where I specialize in designing, building, and deploying end-to-end data solutions that drive business optimization and innovation. With a strong academic foundation in **Mathematics**, **Computational and Applied Mathematics**, **Data Science**, and **Knowledge Management**, I bring a unique, multidisciplinary approach to solving complex problems and delivering actionable insights. My approach is rooted in a deep understanding of **advanced mathematics**, **data engineering**, and **cloud technologies**, enabling me to address challenges with technical precision while considering the broader business context.
 
