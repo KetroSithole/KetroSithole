@@ -5,19 +5,7 @@ I am a **Full-Stack Software and Data Engineer** at **Expeditus**, where I speci
 
 
 
-## **Achievements and Awards**  
-
-- **7x Hackathon Winner**: I have consistently excelled in hackathons, winning seven times across various competitions. These experiences have honed my ability to deliver creative, data-driven solutions under tight deadlines, collaborating with diverse teams to innovate and solve real-world problems.
-  
-- **Top 15 South Africa’s Young Geeks 2023**: I was recognized as one of South Africa’s **Top 15 Young Geeks** for my contributions to the tech industry, particularly in **data engineering** and **software development**. This recognition reflects my passion for innovation, problem-solving, and continuous learning in the field of **data science**.
-
----
-
--
-
-## **Key Skills and Technologies**
-
-- **Data Engineering & Cloud Solutions**: Azure, AWS, Google Cloud, Docker, Kubernetes, CI/CD, Data Pipelines, ETL, DevOps, Cloud Architecture
+**: Azure, AWS, Google Cloud, Docker, Kubernetes, CI/CD, Data Pipelines, ETL, DevOps, Cloud Architecture
 - **Programming & Development**: Python, SQL, SAS, C++, C#, Java, VBA, Angular, Vue.js, REST APIs, GraphQL
 - **Database Management & Data Warehousing**: PostgreSQL, MS SQL, MongoDB, IBM DB2, HBase, NoSQL, Data Modeling, Data Warehousing, Star Models, ERDs
 - **Analytics & Visualization**: Power BI, Excel, SAS, Data Analysis, Data Reporting, Predictive Analytics
