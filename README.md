@@ -6,23 +6,9 @@ I am a Full-Stack Software and Data Engineer at Expeditus, specializing in desig
 With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VBA, Angular, Vue, and more, I excel in building robust data-driven applications and delivering actionable analytics.  
 
 ---
-
-## **Key Project Highlights**  
-- **Revenue Predictive Models**:  
-  - Conducted exploratory data analysis (EDA) on turnover data  
-  - Treated missing values and outliers for clean datasets  
-  - Built forecasting models using ARIMA and exponential smoothing  
-  - Delivered GIS-based insights using geospatial analysis (buffers, clipping, etc.)  
-  - Conducted stepwise regression and correlation analysis for variable selection  
-  - Developed a dynamic ARIMAX model for predictive analytics  
-  - Applied cross-validation and created robust performance metrics for model accuracy  
-  - Leveraged chaotic time series analysis to refine forecasting insights  
-
-- **Credit Risk Modeling**:  
-  - Developed AI-driven models for credit risk evaluation  
-  - Optimized risk management processes through advanced analytics  
-
----
+Skills
+I am proficient in Python 🐍 (e.g., def function():), SQL 💻 (e.g., SELECT * FROM table), and SAS 🔢 (e.g., PROC MEANS DATA=dataset;). My expertise extends to C++ ⚙️ (e.g., int main() { return 0; }), Power BI 📊 (visual reports and dashboards), and Java 💡 (e.g., public class HelloWorld {}). I also have experience with VBA 📝 (e.g., Sub MyMacro()) and C# 🖥️ (e.g., class Program {}).
+----
 
 ## **Professional Experience**  
 - **Teaching and Research Assistant** – 4 years at the University of Pretoria  
