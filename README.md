@@ -6,22 +6,6 @@ With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VB
 ---
 
 
-
-## **Achievements**  
-- **7x Hackathon Winner**  
-- **First Place in Final Year IT Project** (AI-driven data management system)  
-- **Top 15 Young Geeks in South Africa (2023)**  
-- Proven expertise in DevOps, machine learning, AI, and backend engineering  
-
----
-
-## **Technical Skills**  
-- Full-stack software engineering  
-- Data pipeline design and optimization  
-- Advanced analytics and predictive modeling  
-- DevOps (CI/CD pipelines, automation)  
-- AI/ML development  
-
 ---
 
 ## **Tech Stack**  
