@@ -5,28 +5,7 @@ With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VB
 
 ---
 
-## **Key Project Highlights**  
-- **Revenue Predictive Models**:  
-  - Conducted exploratory data analysis (EDA) on turnover data  
-  - Treated missing values and outliers for clean datasets  
-  - Built forecasting models using ARIMA and exponential smoothing  
-  - Delivered GIS-based insights using geospatial analysis (buffers, clipping, etc.)  
-  - Conducted stepwise regression and correlation analysis for variable selection  
-  - Developed a dynamic ARIMAX model for predictive analytics  
-  - Applied cross-validation and created robust performance metrics for model accuracy  
-  - Leveraged chaotic time series analysis to refine forecasting insights  
 
-- **Credit Risk Modeling**:  
-  - Developed AI-driven models for credit risk evaluation  
-  - Optimized risk management processes through advanced analytics  
-
----
-
-## **Professional Experience**  
-- **Teaching and Research Assistant** – 4 years at the University of Pretoria  
-- **IT Support Specialist** – 2 years at the University of Pretoria  
-
----
 
 ## **Achievements**  
 - **7x Hackathon Winner**  
