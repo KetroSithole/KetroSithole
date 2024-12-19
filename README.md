@@ -1,8 +1,7 @@
 # Ketro Sithole  
-I am a Full-Stack Software and Data Engineer at Expeditus, specializing in designing and implementing end-to-end data solutions to optimize business processes. My academic foundation in Mathematics, Computational and Applied Mathematics, Data Science, and Knowledge Management equips me with a holistic and analytical approach to solving complex problems.  
+I am a Full-Stack Software and Data Engineer, specializing in designing and implementing end-to-end data solutions to optimize business processes. My academic foundation in Mathematics, Computational and Applied Mathematics, Data Science, and Knowledge Management equips me with a holistic and analytical approach to solving complex problems.
 
-With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VBA, Angular, Vue, and more, I excel in building robust data-driven applications and delivering actionable analytics.  
-
+With technical expertise spanning Python, SQL, SAS, C++, C#, Power BI, Excel, VBA, Angular, Vue, and more, I excel in building robust data-driven applications and delivering actionable analytics.
 ---
 
 
