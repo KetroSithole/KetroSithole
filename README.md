@@ -1,4 +1,5 @@
 # Ketro Sithole  
+-
 I am a Full-Stack Software and Data Engineer, specializing in designing and implementing end-to-end data solutions to optimize business processes. My academic foundation in Mathematics, Computational and Applied Mathematics, Data Science, and Knowledge Management equips me with a holistic and analytical approach to solving complex problems.
 ---
 ## **Tech Stack**  
