@@ -1,17 +1,8 @@
 # Hi, I'm Ketro Sithole! 👋
 
-## About Me
 
 I am a Full-Stack Consultant specializing in DataOps, Analytics, and Software Engineering. I am passionate about exploring advanced container orchestration and cloud infrastructure management, and I'm always looking to collaborate on data engineering, scalable applications, and automation projects. My expertise spans Python, SQL, ETL pipelines, cloud data engineering, and APIs, and I enjoy solving complex problems with innovative, efficient solutions. Fun fact: I automated a CI/CD pipeline that reduced deployment times by over 60%. If you're interested in any of these areas, feel free to reach out!
 
-📫 Reach me at: [sithole.tk@tuks.co.za](mailto:sithole.tk@tuks.co.za)  
-😄 Pronouns: He/Him  
-
-## Skills & Expertise
-
-- **Data Science & Engineering**: Machine Learning, NLP, Big Data (Hadoop, Hive, Spark, Kafka)  
-- **Cloud & DevOps**: Cloud-native platforms, CI/CD, API Development  
-- **Tools**: Airflow, SSIS, Azure Data Factory, Python, SQL  
 
 ## Tech Stack
 
@@ -37,11 +28,6 @@ I am a Full-Stack Consultant specializing in DataOps, Analytics, and Software En
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="40" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="40" />
 </p>
-
-## Achievements
-
-- Named South Africa’s Top 15 Young Geeks (2023)  
-- 7-time Hackathon winner, including the Investec Programmability Hackathon
 
 ## Connect with Me
 
