@@ -1,7 +1,7 @@
 # Hi, I'm Ketro Sithole! 👋
 
 
-I am a Full-Stack Consultant specializing in DataOps, Analytics, and Software Engineering. I am passionate about exploring advanced container orchestration and cloud infrastructure management, and I'm always looking to collaborate on data engineering, scalable applications, and automation projects. My expertise spans Python, SQL, ETL pipelines, cloud data engineering, and APIs, and I enjoy solving complex problems with innovative, efficient solutions. Fun fact: I automated a CI/CD pipeline that reduced deployment times by over 60%. If you're interested in any of these areas, feel free to reach out!
+I am a Risk and Data Analytics Specialist with expertise in Software Engineering, Data Engineering, Data Science, and Risk Analysis, complemented by academic training in Computer Science, Mathematical Statistics, Competitive Intelligence, and Knowledge Management, with a strong focus on Business Intelligence. With over 3 years of experience, I specialize in developing data-driven solutions, predictive modeling, IT risk management strategies, and Data Engineering to drive performance while balancing risk and reward across diverse industries. My technical skill set includes Python, Java, SQL, PySpark, and statistical analysis, with notable achievements in RPA development, serverless backend services, and API optimization.
 
 
 ## Tech Stack
