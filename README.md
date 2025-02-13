@@ -1,7 +1,6 @@
 # Hi, I'm Ketro Sithole! 👋  
 
-I specialize in Risk and Data Analytics, leveraging expertise in Software Engineering, Data Engineering, and Data Science to build scalable, data-driven solutions. With over 3 years of experience, I focus on predictive modeling, IT risk strategies, and backend optimization across diverse industries. Proficient in Python, Java, SQL, PySpark, and statistical analysis, I deliver impactful results with a strong emphasis on balancing risk and reward.  
-
+I specialize in Risk and Data Analytics, combining expertise in Software Engineering, Data Engineering, and Data Science to build scalable, data-driven solutions. With 3+ years of experience, I focus on predictive modeling, IT risk management, and backend optimization across diverse industries. Proficient in Python, Java, SQL, PySpark, and statistical analysis, I deliver impactful results by balancing risk and reward. Currently, I am a 3rd-year BSc Computer Science student at the University of Pretoria with strong interests in AI, Software Development, Data Science, and Machine Learning.
 ## Tech Stack  
 
 <p align="center">  
