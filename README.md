@@ -18,7 +18,7 @@ This profile is organized like the curriculum I wish I'd had — each module is 
 
 ---
 
-## 🎓 Core Modules
+## `</>` Core Modules
 
 | | Module | What it covers | Instruments |
 |---|---|---|---|
@@ -31,21 +31,34 @@ This profile is organized like the curriculum I wish I'd had — each module is 
 
 ---
 
-## 🧪 Lab Equipment (Tech Stack)
+## `{ }` Lab Equipment (Tech Stack)
+
+**Languages**
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30"/>
+</p>
+
+**Platforms & Tools**
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
 </p>
 
 ---
 
-## 🕰️ Office Hours
+## `//` Office Hours
 
 Open to conversations on data platforms, risk modeling, or anything that lives at the boundary between the two.
 
